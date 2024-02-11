@@ -11,9 +11,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <!-- <div id="stats" align="center"> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
 <!-- </div> -->
 <!-- <div id="langs" align="center"> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie)]
 <!-- </div> -->
