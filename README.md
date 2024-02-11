@@ -23,5 +23,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false" alt="Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true" alt="Lang"/>
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false)
-![](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
