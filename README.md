@@ -8,7 +8,7 @@
 <img src="https://visitcount.itsvg.in/api?id=deadnord&label=Profile%20Views&color=11&icon=3&pretty=true" alt="Views"/>
 </div> 
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/yegor-osipov-eod/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
