@@ -12,10 +12,10 @@
   </a>
 </div>
 
-<!-- <div id="stats" align="center"> -->
+<div id="stats" align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
-<!-- </div> -->
-<!-- <div id="langs" align="center"> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie)]
-<!-- </div> -->
+</div>
+    
+<div id="langs" align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie)](https://github.com/deadnord/github-readme-stats)
+</div>
