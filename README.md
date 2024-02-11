@@ -16,8 +16,8 @@
 <a href="https://eod-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=readme" alt="Portfolio"/>
   </a>
-    <a href="eosipopo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="mailto:eosipopo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
     
