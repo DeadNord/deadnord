@@ -8,7 +8,7 @@
 <img src="https://visitcount.itsvg.in/api?id=deadnord&label=Profile%20Views&color=11&icon=3&pretty=true" alt="Views"/>
 </div> 
 
-<div id="badges" align="center" style="margin-bottom: 20px;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yegor-osipov-eod/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 <div id="charts" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false" alt="Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true" alt="Lang"/>
