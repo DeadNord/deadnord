@@ -1,5 +1,5 @@
 <div id="logo" align="center">
-    <img src="[insert an image of yourself or something you like]" width="200" />  
+    <img src="https://www.dropbox.com/scl/fi/znqzabptwj6vv6wvclq5j/6327211.png?rlkey=88w0e64ung0cb35cf3bht4zdk&raw=1" width="200" />  
 </div>
 
 <div id="header" align="center">
