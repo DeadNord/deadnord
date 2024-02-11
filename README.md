@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/yegor-osipov-eod/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://eod-portfolio.netlify.app/">
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=readme" alt="Portfolio"/>
+  </a>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
