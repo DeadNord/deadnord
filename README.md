@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://eod-portfolio.netlify.app/">
-    <img src="https://img.shields.io/logo=readme" alt="Portfolio"/>
+    <img src="https://img.shields.io/npm.svg?logo=readme" alt="Portfolio"/>
   </a>
 </div>
 
