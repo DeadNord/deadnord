@@ -1,5 +1,5 @@
 <div id="logo" align="center">
-    <img src="https://www.dropbox.com/scl/fi/znqzabptwj6vv6wvclq5j/6327211.png?rlkey=88w0e64ung0cb35cf3bht4zdk&raw=1" width="960" />  
+    <img src="https://www.dropbox.com/scl/fi/87xs4y6r8xkkaop6a9sur/80s-synthwave-aesthetic-cover-5uac1oe9a997n5g7.jpg?rlkey=2ybebnpccuv18hhv4nzm7kx9j&raw=1" width="960" />  
 </div>
 
 <div id="header" align="center">
