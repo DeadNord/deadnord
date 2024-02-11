@@ -20,5 +20,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie)]
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadnord)]
