@@ -8,15 +8,16 @@
 </p>
 </div> 
 
+![](https://visitcount.itsvg.in/api?id=deadnord&label=Profile%20Views&color=11&icon=3&pretty=true)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yegor-osipov-eod/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a>
-    ![](https://visitcount.itsvg.in/api?id=deadnord&label=Profile%20Views&color=11&icon=3&pretty=true)
-        </a>
-    <a href="https://eod-portfolio.netlify.app/">
+<a href="https://eod-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=readme" alt="Portfolio"/>
+  </a>
+    <a href="eosipopo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
     
