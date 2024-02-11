@@ -12,10 +12,6 @@
   </a>
 </div>
 
-<div id="stats">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true)
-</div>
     
-<div id="langs">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie)](https://github.com/deadnord/github-readme-stats)
-</div>
