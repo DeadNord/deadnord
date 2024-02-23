@@ -5,9 +5,8 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Yehor Osipov</h1>
   <p>I am a Full-Stack Developer. Coming to my skills I know how to create the Front-End and Back-End parts. I feel especially good when I see that the website and app works perfectly.</p>
-  <img src="https://visitcount.itsvg.in/api?id=DeadNord&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Views/>
+  <img src="https://visitcount.itsvg.in/api?id=DeadNord&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Views"/>
 </div> 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yegor-osipov-eod/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
