@@ -1,7 +1,6 @@
 
-<!--     <img src="https://www.dropbox.com/scl/fi/87xs4y6r8xkkaop6a9sur/80s-synthwave-aesthetic-cover-5uac1oe9a997n5g7.jpg?rlkey=2ybebnpccuv18hhv4nzm7kx9j&raw=1" width="960" />   -->
 <br>
-<p align="center"> <img width="433" height="177" src="https://raw.githubusercontent.com/deadnord/assets/images/hackathon.gif"/>
+<p align="center"> <img width="433" height="177" src="./assets/images/hackathon.gif"/>
 <br>
 
 
@@ -21,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
+<br>
 <div id="charts" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnord&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false" alt="Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=deadnord&theme=transparent&show_icons=true" alt="Lang"/>
